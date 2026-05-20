@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Samriddhi
 
 # 💫 About Me:
 <br><br>* 💻 Currently building projects in AI & Web Development<br>* 🤝 Open to collaborating on innovative tech projects<br>* 🌱 Learning DSA, DevOps, and Computer Networks<br>* 💬 Ask me about C++, GitHub, and placement prep<br>* ⚡ Turning curiosity into code every day ✨<br>
